@@ -6,23 +6,31 @@ A **responsive landing page clone of Coding Ninjas** built using **React.js** an
 
 ## Table of Contents
 
-- [Demo](#demo)  
-- [Features](#features)  
-- [Technologies Used](#technologies-used)  
-- [Project Structure](#project-structure)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Demo](https://coding-ninja-clone-plum.vercel.app/)  
+- [Technologies Used](react,Tailwind css)  
 
 ---
 
-## Demo
+## Installation
 
-Include screenshots or GIFs here:  
+1. **Clone the repository:**
 
-![Hero Section](./screenshots/hero.png)  
-![Form Section](./screenshots/form.png)  
+```bash
+git clone https://github.com/yourusername/coding-ninjas-clone.git
+cd coding-ninjas-clone
+npm install
+# or if you use Yarn
+yarn
+npm start
+# or if you use Yarn
+yarn start
+
+---
+
+
+
+
+
 
 ---
 
@@ -49,19 +57,3 @@ Include screenshots or GIFs here:
 
 ---
 
-## Project Structure
-
-```text
-coding-ninjas-clone/
-│
-├─ public/                  # Static assets
-│   └─ arrow.svg
-├─ src/
-│   ├─ assets/              # Images and icons
-│   ├─ pages/
-│   │   └─ Home.jsx         # Landing page
-│   ├─ App.jsx
-│   └─ index.js
-├─ tailwind.config.js        # Tailwind CSS configuration
-├─ package.json
-└─ README.md

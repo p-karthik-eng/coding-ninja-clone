@@ -3,6 +3,12 @@
 A **responsive landing page clone of Coding Ninjas** built using **React.js** and **Tailwind CSS**. The project uses a **component-based structure** for modularity and scalability.
 
 ---
+#setup and run the server
+
+- git clone https://github.com/p-karthik-eng/coding-ninja-clone
+- cd Coding-Ninja-Clone-Using-Reacts-js
+- npm install
+- npm run dev
 
 ## Technologies Used
 
